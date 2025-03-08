@@ -1,0 +1,3 @@
+used waste.txt for testing
+
+command: git add waste.txt
